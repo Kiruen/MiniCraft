@@ -1,0 +1,155 @@
+{
+  "voxels": [
+		{
+		  "name": "stone",
+		  "texure_name": "stone",
+		  "type_id": 1,
+		  "system_type": "Block",
+		},
+		
+		{
+		  "name": "sand",
+		  "texure_name": "sand",
+		  "type_id": 2,
+		  "system_type": "SandBlock",
+		  "physics_prop": {
+			  "gravity": "-5",
+		  },
+		},
+		
+		{
+		  "name": "grass_block",
+		  "texure_name": "grass_block",
+		  "type_id": 3,
+		  "system_type": "GrassBlock",
+		},
+		
+		{
+		  "name": "water",
+		  "texure_name": "water_still",
+		  "type_id": 4,
+		  "system_type": "Water",
+		  "physics_prop": {
+			  "gravity_effect": 0.1,
+		  },
+		},
+		
+		{
+		  "name": "door_wood_upper",
+		  "texure_name": "door_wood_upper",
+		  "type_id": 5,
+		  "system_type": "VertiHalfDoor",
+		  "spec_prop": {
+			  "part": "up",
+		  },
+		},
+		
+		{
+		  "name": "door_wood_lower",
+		  "texure_name": "door_wood_lower",
+		  "type_id": 6,
+		  "system_type": "VertiHalfDoor",
+		  "spec_prop": {
+			  "part": "down",
+		  },
+		},
+		
+		{
+		  "name": "brick",
+		  "texure_name": "brick",
+		  "type_id": 8,
+		  "system_type": "Block",
+		},
+		
+		{
+		  "name": "glass",
+		  "texure_name": "glass",
+		  "type_id": 9,
+		  "system_type": "GlassBlock",
+		},
+		
+		{
+		  "name": "log_oak",
+		  "texure_name": "log_oak",
+		  "type_id": 10,
+		  "system_type": "LogBlock",
+		},
+		
+		{
+		  "name": "leaves_spruce",
+		  "texure_name": "leaves_spruce",
+		  "type_id": 11,
+		  "system_type": "LeafBlock",
+		},
+		
+		{
+		  "name": "dirt",
+		  "texure_name": "dirt",
+		  "type_id": 12,
+		  "system_type": "Block",
+		},
+		
+		{
+		  "name": "cobblestone_mossy",
+		  "texure_name": "cobblestone_mossy",
+		  "type_id": 13,
+		  "system_type": "Block",
+		},		
+		
+		{
+		  "name": "stonebrick",
+		  "texure_name": "stonebrick",
+		  "type_id": 14,
+		  "system_type": "Block",
+		},
+	
+		{
+		  "name": "planks_oak",
+		  "texure_name": "planks_oak",
+		  "type_id": 15,
+		  "system_type": "Block",
+		},
+		
+		{
+		  "name": "glass_cyan",
+		  "texure_name": "glass_cyan",
+		  "type_id": 16,
+		  "system_type": "GlassBlock",
+		},
+	
+		{
+		  "name": "plant1",
+		  "texure_name": "plant1",
+		  "type_id": 201,
+		  "system_type": "CrossPlant",
+		},
+		
+		{
+		  "name": "plant2",
+		  "texure_name": "plant2",
+		  "type_id": 202,
+		  "system_type": "CrossPlant",
+		},	
+
+		{
+		  "name": "plant3",
+		  "texure_name": "plant3",
+		  "type_id": 203,
+		  "system_type": "CrossPlant",
+		},
+		
+		{
+		  "name": "plant4",
+		  "texure_name": "plant4",
+		  "type_id": 204,
+		  "system_type": "CrossPlant",
+		},		
+
+		{
+		  "name": "plant5",
+		  "texure_name": "plant5",
+		  "type_id": 205,
+		  "system_type": "CrossPlant",
+		},			
+	]
+}

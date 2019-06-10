@@ -1,0 +1,7 @@
+J:\GDesign\MiniCraft\MiniCraft\Test\bin\Debug\Test.exe.config
+J:\GDesign\MiniCraft\MiniCraft\Test\bin\Debug\Test.exe
+J:\GDesign\MiniCraft\MiniCraft\Test\bin\Debug\Test.pdb
+J:\GDesign\MiniCraft\MiniCraft\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+J:\GDesign\MiniCraft\MiniCraft\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+J:\GDesign\MiniCraft\MiniCraft\Test\obj\Debug\Test.exe
+J:\GDesign\MiniCraft\MiniCraft\Test\obj\Debug\Test.pdb

@@ -1,0 +1,9 @@
+J:\GDesign\MiniCraft\MiniCraft\MiniCraft.Common\bin\Debug\netstandard2.0\MiniCraft.Common.deps.json
+J:\GDesign\MiniCraft\MiniCraft\MiniCraft.Common\bin\Debug\netstandard2.0\MiniCraft.Common.dll
+J:\GDesign\MiniCraft\MiniCraft\MiniCraft.Common\bin\Debug\netstandard2.0\MiniCraft.Common.pdb
+J:\GDesign\MiniCraft\MiniCraft\MiniCraft.Common\obj\Debug\netstandard2.0\MiniCraft.Common.csprojResolveAssemblyReference.cache
+J:\GDesign\MiniCraft\MiniCraft\MiniCraft.Common\obj\Debug\netstandard2.0\MiniCraft.Common.csproj.CoreCompileInputs.cache
+J:\GDesign\MiniCraft\MiniCraft\MiniCraft.Common\obj\Debug\netstandard2.0\MiniCraft.Common.AssemblyInfoInputs.cache
+J:\GDesign\MiniCraft\MiniCraft\MiniCraft.Common\obj\Debug\netstandard2.0\MiniCraft.Common.AssemblyInfo.cs
+J:\GDesign\MiniCraft\MiniCraft\MiniCraft.Common\obj\Debug\netstandard2.0\MiniCraft.Common.dll
+J:\GDesign\MiniCraft\MiniCraft\MiniCraft.Common\obj\Debug\netstandard2.0\MiniCraft.Common.pdb

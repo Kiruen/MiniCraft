@@ -1,0 +1,32 @@
+dynamic surroundings
+- snow done
+minecraft
+- textures
+	- moon done
+	- soul sand done
+	- bed softer highlights
+	- wool more texture
+	- tools/weapons more sheen
+	- dyes done
+	- map markers redone
+	- new icon
+	- double grass done
+	- all single block flowers done
+	- end frame done
+	- squid done
+	- chainmail, diamond, iron and gold armour items done
+	- door items done
+	- ink sac done
+	- cocoa beans done
+	- diamond done
+	- flint and steel done
+	- hopper item done
+	- lead item done
+	- name tag done
+	- rabbit foot done
+	- sign item done
+	- particles done
+	- zombie pigman done
+	- slightly increased definition on steve
+	- netherrack redness increased
+	- spruce sapling done
